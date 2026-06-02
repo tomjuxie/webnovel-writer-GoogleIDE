@@ -1,0 +1,29 @@
+[
+  {
+    "event_id": "evt-ch029-001",
+    "chapter": 29,
+    "event_type": "relationship_changed",
+    "subject": "顾道儒与墨玄机",
+    "payload": {
+      "description": "李霆深夜送来告急血书，顾道儒承接大周儒兵大因果，与墨玄机再次共同涉险，情感默契更深。"
+    }
+  },
+  {
+    "event_id": "evt-ch029-002",
+    "chapter": 29,
+    "event_type": "character_state_changed",
+    "subject": "白屠",
+    "payload": {
+      "description": "大秦兵家天骄、法兵强者白屠登台，开启百战杀神阵包围顾道儒，展示出霸烈铁血的法兵杀道法理。"
+    }
+  },
+  {
+    "event_id": "evt-ch029-003",
+    "chapter": 29,
+    "event_type": "world_rule_revealed",
+    "subject": "大唐西线告急",
+    "payload": {
+      "description": "李霆透露大唐防线危在旦夕，亚圣将陨，唯有大比展现“儒兵合流”之理，方能共鸣引动人道气运温养前线亚圣续命。"
+    }
+  }
+]

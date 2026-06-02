@@ -1,0 +1,40 @@
+[
+  {
+    "event_id": "evt-ch027-001",
+    "chapter": 27,
+    "event_type": "relationship_changed",
+    "subject": "顾道儒与墨玄机",
+    "payload": {
+      "description": "在后院工棚内，顾道儒用苏木留下的舒血药膏为墨玄机涂抹被铁屑磨得红肿的十指，在艾草清香中展现极具克制的默契知己情感。"
+    }
+  },
+  {
+    "event_id": "evt-ch027-002",
+    "chapter": 27,
+    "event_type": "character_state_changed",
+    "subject": "格物神舆",
+    "payload": {
+      "description": "墨玄机将墨家非攻守护符文与顾道儒的太极真意融合，在大比前夕打造出融汇墨道两家的升级版神舆轮椅。"
+    }
+  },
+  {
+    "event_id": "evt-ch027-003",
+    "chapter": 27,
+    "event_type": "open_loop_created",
+    "subject": "大秦使臣与保守派",
+    "payload": {
+      "loop_id": "evt-ch027-003",
+      "description": "大秦特使与大周保守派勾结大齐名家，计划在大比首日动用大齐名家诡辩大阵，意图在论道规则领域彻底碾碎顾道儒的儒学道心。"
+    }
+  },
+  {
+    "event_id": "evt-ch027-004",
+    "chapter": 27,
+    "event_type": "open_loop_closed",
+    "subject": "大秦死士夜袭",
+    "payload": {
+      "loop_id": "evt-ch027-004",
+      "description": "深夜大秦死士受特使之命夜袭寒蝉观欲毁坏神舆，墨玄机布设的绊线铃铛预警并以机关阻滞，顾道儒端坐神舆引导太极气旋偏转余下毒矢，李霆率军刀劈死士，迫使突袭阴谋流产。"
+    }
+  }
+]

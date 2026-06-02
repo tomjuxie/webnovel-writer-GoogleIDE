@@ -1,0 +1,39 @@
+[
+  {
+    "event_id": "evt-ch028-001",
+    "chapter": 28,
+    "event_type": "relationship_changed",
+    "subject": "顾道儒与墨玄机",
+    "payload": {
+      "description": "大比首日墨玄机推行格物神舆守护顾道儒入场，在大法理压力下同心协力默契防守，知己情感在列国瞩目下更为牢不可破。"
+    }
+  },
+  {
+    "event_id": "evt-ch028-002",
+    "chapter": 28,
+    "event_type": "character_state_changed",
+    "subject": "格物神舆",
+    "payload": {
+      "description": "在大比首战面对公孙诡名家诡辩大阵时展现防御神威，由顾道儒太极真意引导激发气旋偏转重压与规则尖刺，被证实为强力的法理级移动道场。"
+    }
+  },
+  {
+    "event_id": "evt-ch028-003",
+    "chapter": 28,
+    "event_type": "open_loop_closed",
+    "subject": "大秦特使与保守派",
+    "payload": {
+      "loop_id": "evt-ch027-003",
+      "description": "顾道儒与墨玄机借神舆成功破阵并折服公孙诡，大秦特使企图在规则上以大阵压垮废人顾道儒的阴谋在大比首日彻底破产。"
+    }
+  },
+  {
+    "event_id": "evt-ch028-004",
+    "chapter": 28,
+    "event_type": "world_rule_revealed",
+    "subject": "儒门正名名实至理",
+    "payload": {
+      "description": "顾道儒宣布先圣关于名正言顺及约定俗成谓之实名之至理，指明其立道救世、合流完璧人道根基的宗旨，引动百丈紫金正名天光重塑名实。"
+    }
+  }
+]

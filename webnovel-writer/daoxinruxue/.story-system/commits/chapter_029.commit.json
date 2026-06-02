@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "schema_version": "story-system/v1",
+    "chapter": 29,
+    "status": "accepted"
+  },
+  "contract_refs": {
+    "master": "MASTER_SETTING.json",
+    "volume": "volume_001.json",
+    "chapter": "chapter_029.json",
+    "review": "chapter_029.review.json"
+  },
+  "provenance": {
+    "write_fact_role": "chapter_commit",
+    "projection_role": "derived_read_models",
+    "legacy_state_role": "projection_only"
+  },
+  "outline_snapshot": {
+    "planned_nodes": [
+      "寒蝉观松下松风萧瑟 | 顾道儒当夜首胜归观，月影清冷，李霆与裴烈神色凝重地深夜登门递上西线血书 | 揭示大唐防线亚圣将陨、关隘危急的惊天悬念",
+      "论道台风暴核心 | 赤红杀气铡刀凌空悬挂，仿佛下一刻便要将格物神舆彻底震碎，大秦特使在高台冷笑 | 顾道儒坐在神舆内，面容清癯平静，缓缓抬手探向大袖中，目光如电"
+    ],
+    "covered_nodes": [
+      "寒蝉观松下松风萧瑟 | 顾道儒当夜首胜归观，月影清冷，李霆与裴烈神色凝重地深夜登门递上西线血书 | 揭示大唐防线亚圣将陨、关隘危急的惊天悬念",
+      "论道台风暴核心 | 赤红杀气铡刀凌空悬挂，仿佛下一刻便要将格物神舆彻底震碎，大秦特使在高台冷笑 | 顾道儒坐在神舆内，面容清癯平静，缓缓抬手探向大袖中，目光如电"
+    ],
+    "missed_nodes": [],
+    "extra_nodes": []
+  },
+  "review_result": {
+    "blocking_count": 0,
+    "issues": [],
+    "summary": "0个问题：0个阻断，0个高优"
+  },
+  "fulfillment_result": {
+    "planned_nodes": [
+      "寒蝉观松下松风萧瑟 | 顾道儒当夜首胜归观，月影清冷，李霆与裴烈神色凝重地深夜登门递上西线血书 | 揭示大唐防线亚圣将陨、关隘危急的惊天悬念",
+      "论道台风暴核心 | 赤红杀气铡刀凌空悬挂，仿佛下一刻便要将格物神舆彻底震碎，大秦特使在高台冷笑 | 顾道儒坐在神舆内，面容清癯平静，缓缓抬手探向大袖中，目光如电"
+    ],
+    "covered_nodes": [
+      "寒蝉观松下松风萧瑟 | 顾道儒当夜首胜归观，月影清冷，李霆与裴烈神色凝重地深夜登门递上西线血书 | 揭示大唐防线亚圣将陨、关隘危急的惊天悬念",
+      "论道台风暴核心 | 赤红杀气铡刀凌空悬挂，仿佛下一刻便要将格物神舆彻底震碎，大秦特使在高台冷笑 | 顾道儒坐在神舆内，面容清癯平静，缓缓抬手探向大袖中，目光如电"
+    ],
+    "missed_nodes": [],
+    "extra_nodes": []
+  },
+  "disambiguation_result": {
+    "pending": []
+  },
+  "accepted_events": [
+    {
+      "event_id": "evt-ch029-001",
+      "chapter": 29,
+      "event_type": "relationship_changed",
+      "subject": "顾道儒与墨玄机",
+      "payload": {
+        "description": "李霆深夜送来告急血书，顾道儒承接大周儒兵大因果，与墨玄机再次共同涉险，情感默契更深。"
+      }
+    },
+    {
+      "event_id": "evt-ch029-002",
+      "chapter": 29,
+      "event_type": "character_state_changed",
+      "subject": "白屠",
+      "payload": {
+        "description": "大秦兵家天骄、法兵强者白屠登台，开启百战杀神阵包围顾道儒，展示出霸烈铁血的法兵杀道法理。"
+      }
+    },
+    {
+      "event_id": "evt-ch029-003",
+      "chapter": 29,
+      "event_type": "world_rule_revealed",
+      "subject": "大唐西线告急",
+      "payload": {
+        "description": "李霆透露大唐防线危在旦夕，亚圣将陨，唯有大比展现“儒兵合流”之理，方能共鸣引动人道气运温养前线亚圣续命。"
+      }
+    }
+  ],
+  "state_deltas": [
+    {
+      "entity_id": "顾道儒",
+      "field_path": "status",
+      "old_value": "大比首日乘坐格物神舆入场，正面驳斥并一言点醒大齐名家宗师公孙诡，引导其名家道统完璧；借助神舆太极气旋偏导法理重压，保持儒门残躯而心神受人道鉴白气温养，名声大振",
+      "new_value": "深夜承接李霆与老卒裴烈送达的西线告急血书因果；次日清晨乘坐格物神舆入兵家九宫擂，直面大秦法兵天骄白屠百战杀神阵的凶戾包围，波澜不惊",
+      "change_type": "confirmed"
+    },
+    {
+      "entity_id": "白屠",
+      "field_path": "status",
+      "old_value": "无",
+      "new_value": "大秦兵家天骄，5境破军法兵大将，兵家正赛登台对阵顾道儒，施展百战杀神阵卷起暗红刀罡杀意直逼顾道儒",
+      "change_type": "initialize"
+    },
+    {
+      "entity_id": "李霆",
+      "field_path": "status",
+      "old_value": "大唐柱国大将军李穆之子，大唐兵家大比领队天骄，得知裴烈密报后率铁卫登门敬献兵符印信，强硬宣告维护顾道儒",
+      "new_value": "深夜将西线亚圣垂危、百万蛮军压境的密信血书送至寒蝉观交付顾道儒，恳请其以大比儒兵合流之势反哺西线",
+      "change_type": "confirmed"
+    },
+    {
+      "entity_id": "裴烈",
+      "field_path": "status",
+      "old_value": "大唐西线残卒伍长，受创极重，在寒蝉观前长跪求见，终被顾道儒接纳，闻兵圣至理大恸泪目并重新树立死志",
+      "new_value": "得知西线危机后于深夜在顾道儒阶前长跪求恳，悲痛请求先生施手救西线十万将士与亚圣",
+      "change_type": "confirmed"
+    }
+  ],
+  "entity_deltas": [
+    {
+      "entity_id": "白屠",
+      "action": "upsert",
+      "entity_type": "角色",
+      "tier": "重要配角",
+      "payload": {
+        "name": "白屠"
+      }
+    }
+  ],
+  "entities_appeared": [
+    {
+      "entity_id": "顾道儒",
+      "entity_type": "角色"
+    },
+    {
+      "entity_id": "墨玄机",
+      "entity_type": "角色"
+    },
+    {
+      "entity_id": "李霆",
+      "entity_type": "角色"
+    },
+    {
+      "entity_id": "裴烈",
+      "entity_type": "角色"
+    },
+    {
+      "entity_id": "白屠",
+      "entity_type": "角色"
+    }
+  ],
+  "scenes": [
+    {
+      "location": "大周帝都寒蝉观",
+      "characters": [
+        "顾道儒",
+        "墨玄机",
+        "李霆",
+        "裴烈"
+      ],
+      "description": "十月一日深夜，李霆与老兵裴烈持西线血书连夜拜会顾道儒，透露镇蛮关亚圣垂危之谜，顾道儒感念苍生热血承接因果。"
+    },
+    {
+      "location": "大周学宫论道台兵家九宫擂",
+      "characters": [
+        "顾道儒",
+        "墨玄机",
+        "白屠",
+        "大秦特使"
+      ],
+      "description": "十月二日清晨，兵家九宫擂台开启，大秦法兵天骄白屠驱玄铁战车登台发起生死挑战，激起漫天百战杀气与巨大赤红铡刀直逼神舆，主角平静以对。"
+    }
+  ],
+  "chapter_meta": {
+    "chapter": 29,
+    "title": "铁血杀道起狂澜"
+  },
+  "dominant_strand": "quest",
+  "summary_text": "第二十九章《铁血杀道起狂澜》讲述十月一日深夜，大唐李霆与断臂老兵裴烈连夜赶往寒蝉观拜会顾道儒，呈上浸透鲜血的大唐西线战报。血书揭示镇守镇蛮关的兵家亚圣气血将枯、命在旦夕，而蛮族百万雄兵正围攻关防，人族面临倾覆危机。李霆指出唯有顾道儒在次日的“兵家九宫擂”中以“儒兵合流”之学大胜，方能共鸣人道鉴降下造化为亚圣续命。顾道儒本心受凡人将士卫道之热血震撼，慨然接下因果。次日清晨，兵家九宫擂正式开启，大秦兵家天骄、凶名震世的“法兵”将领白屠架青铜战车登台狙击。白屠狂傲出言挑衅并瞬间祭出“百战杀神阵”，凝聚成赤红如血的巨大法则铡刀向轮椅上的顾道儒当头劈下，重重杀气刀罡风暴将神舆与石台瞬间笼罩，气氛千钧一发。顾道儒端坐神舆气度从容，将手探入大袖应对。",
+  "projection_status": {
+    "state": "done",
+    "index": "done",
+    "summary": "done",
+    "memory": "done",
+    "vector": "skipped"
+  }
+}

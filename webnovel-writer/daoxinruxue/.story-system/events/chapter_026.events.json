@@ -1,0 +1,30 @@
+[
+  {
+    "event_id": "evt-ch026-001",
+    "chapter": 26,
+    "event_type": "relationship_changed",
+    "subject": "顾道儒与墨玄机",
+    "payload": {
+      "description": "听证朝议后顾道儒神魂脱力严重，墨玄机取出贴身温暖手帕细心为其擦汗，两人在暮色夕照中眼神微光灵魂共鸣"
+    }
+  },
+  {
+    "event_id": "evt-ch026-002",
+    "chapter": 26,
+    "event_type": "open_loop_closed",
+    "subject": "大周太学司与大秦特使",
+    "payload": {
+      "loop_id": "evt-ch025-002",
+      "description": "顾道儒在听证朝议上大获全胜，陆明出示天子金牌，李霆带兵家应和，弹劾种子席位风波彻底破产，稳固席位"
+    }
+  },
+  {
+    "event_id": "evt-ch026-003",
+    "chapter": 26,
+    "event_type": "world_rule_revealed",
+    "subject": "人道守御文武一体理规",
+    "payload": {
+      "description": "顾道儒在太学司上提出『有文事者必有武备，有武事者必有文备』之儒兵完璧合流至理，引发太学大殿磬钟石柱金石共振"
+    }
+  }
+]

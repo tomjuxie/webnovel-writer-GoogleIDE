@@ -1,0 +1,31 @@
+[
+  {
+    "event_id": "evt-ch025-001",
+    "chapter": 25,
+    "event_type": "character_state_changed",
+    "subject": "顾道儒",
+    "payload": {
+      "description": "顾道儒接纳大唐兵印获得代表大唐兵家论战法理身份，并与领队李霆正式结盟"
+    }
+  },
+  {
+    "event_id": "evt-ch025-002",
+    "chapter": 25,
+    "event_type": "open_loop_created",
+    "subject": "大周太学司与大秦特使",
+    "payload": {
+      "description": "大周太学司祭酒联合协办国大秦特使以顾道儒兼跨儒兵两门违背古制为由，发起联名弹劾意图剥夺其种子席位",
+      "loop_type": "规则挑战",
+      "unanswered_question": "顾道儒能否在大周学宫规则下证明其双领印信的合法性，保住大比种子名额？"
+    }
+  },
+  {
+    "event_id": "evt-ch025-003",
+    "chapter": 25,
+    "event_type": "world_rule_revealed",
+    "subject": "西北天幕防线",
+    "payload": {
+      "description": "顾道儒向墨玄机透露天幕防线本源乃是人族气运规则屏障之奥秘披露"
+    }
+  }
+]

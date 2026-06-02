@@ -32,9 +32,9 @@
     "cultivation_subtiers": "一至九境"
   },
   "progress": {
-    "current_chapter": 23,
-    "total_words": 92289,
-    "last_updated": "2026-05-30 11:19:21",
+    "current_chapter": 29,
+    "total_words": 113198,
+    "last_updated": "2026-06-02 19:19:52",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -67,7 +67,13 @@
       "20": "chapter_committed",
       "21": "chapter_committed",
       "22": "chapter_committed",
-      "23": "chapter_committed"
+      "23": "chapter_committed",
+      "24": "chapter_committed",
+      "25": "chapter_committed",
+      "26": "chapter_committed",
+      "27": "chapter_committed",
+      "28": "chapter_committed",
+      "29": "chapter_committed"
     }
   },
   "protagonist_state": {
@@ -117,15 +123,20 @@
       "chapters": "22-22",
       "report": "审查报告/第22章审查报告.md",
       "reviewed_at": "2026-05-30 10:54:09"
+    },
+    {
+      "chapters": "28-28",
+      "report": "审查报告/第28章审查报告.md",
+      "reviewed_at": "2026-06-02 17:33:01"
     }
   ],
   "chapter_meta": {},
   "strand_tracker": {
-    "last_quest_chapter": 23,
+    "last_quest_chapter": 29,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
-    "chapters_since_switch": 18,
+    "chapters_since_switch": 24,
     "history": [
       {
         "chapter": 4,
@@ -198,6 +209,30 @@
       {
         "chapter": 23,
         "dominant": "quest"
+      },
+      {
+        "chapter": 24,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 25,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 26,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 27,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 28,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 29,
+        "dominant": "quest"
       }
     ]
   },
@@ -206,18 +241,18 @@
       "realm": null,
       "power": {
         "layer": 2,
-        "realm": "道门练气/儒门觉醒"
+        "realm": "兵家觉醒/道门练气/儒门觉醒"
       },
       "location": {
         "current": "大周帝局寒蝉观"
       },
-      "status": "以齐物至理辩倒并解构公孙烈“离坚白”概念锁链。因为是阐述真理而非将圣言转化为直接直接攻击，因而未受破坏性知行反噬，保持残躯无新伤，庄子竹简愈发清晰"
+      "status": "深夜承接李霆与老卒裴烈送达的西线告急血书因果；次日清晨乘坐格物神舆入兵家九宫擂，直面大秦法兵天骄白屠百战杀神阵的凶戾包围，波澜不惊"
     },
     "陈明": {
       "status": "化玉殉道"
     },
     "墨玄机": {
-      "status": "彻底苏醒、服药后神志清醒、能独立进行客观 of 百家局势理性剖析，伤势平稳养护中",
+      "status": "大比首日推行格物神舆推主角进入论道台，面对宗师大阵冷静坚毅默默守护，共同夺得首战大胜，稳固防线",
       "location": {
         "current": "大周帝都寒蝉观"
       }
@@ -269,6 +304,24 @@
       "location": {
         "current": "大秦驻帝都馆所（负伤躲避）"
       }
+    },
+    "裴烈": {
+      "status": "得知西线危机后于深夜在顾道儒阶前长跪求恳，悲痛请求先生施手救西线十万将士与亚圣"
+    },
+    "李霆": {
+      "status": "深夜将西线亚圣垂危、百万蛮军压境的密信血书送至寒蝉观交付顾道儒，恳请其以大比儒兵合流之势反哺西线"
+    },
+    "大周太学司祭酒": {
+      "status": "听证会上联合秦使弹劾顾道儒失败，被文武相济真理大破并受天子御旨与大唐百战兵锋震慑，脸色发青瘫坐大殿"
+    },
+    "大秦特使": {
+      "status": "深夜派死士毁神舆失败，大比首日目睹神舆首秀防护神威与公孙诡被折服退下，捏碎酒樽脸色铁青难看"
+    },
+    "公孙诡": {
+      "status": "大齐名家宗师，大比首日布阵阻道，言论被顾道儒正名至理击败反噬吐血，但在顾道儒点醒下大彻大悟，主动收去大阵执弟子礼谢过退下，保留根基"
+    },
+    "白屠": {
+      "status": "大秦兵家天骄，5境破军法兵大将，兵家正赛登台对阵顾道儒，施展百战杀神阵卷起暗红刀罡杀意直逼顾道儒"
     }
   }
 }
