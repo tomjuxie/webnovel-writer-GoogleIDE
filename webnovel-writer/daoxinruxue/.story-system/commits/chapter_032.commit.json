@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "schema_version": "story-system/v1",
+    "chapter": 32,
+    "status": "accepted"
+  },
+  "contract_refs": {
+    "master": "MASTER_SETTING.json",
+    "volume": "volume_001.json",
+    "chapter": "chapter_032.json",
+    "review": "chapter_032.review.json"
+  },
+  "provenance": {
+    "write_fact_role": "chapter_commit",
+    "projection_role": "derived_read_models",
+    "legacy_state_role": "projection_only"
+  },
+  "outline_snapshot": {
+    "planned_nodes": [
+      "圣人法尺 | 降临于 | 帝都上空遮天蔽日",
+      "保守大儒与秦使 | 联名逼迫大周天子 | 交出顾道儒以平圣怒",
+      "顾道儒 | 坐着格物神舆登上 | 学宫论道台",
+      "顾道儒 | 诵读韩非大公法理 | 叩问法尺之公心",
+      "法尺 | 绽放金光反噬 | 大秦特使并重归天外"
+    ],
+    "covered_nodes": [
+      "圣人法尺 | 降临于 | 帝都上空遮天蔽日",
+      "保守大儒与秦使 | 联名逼迫大周天子 | 交出顾道儒以平圣怒",
+      "顾道儒 | 坐着格物神舆登上 | 学宫论道台",
+      "顾道儒 | 诵读韩非大公法理 | 叩问法尺之公心",
+      "法尺 | 绽放金光反噬 | 大秦特使并重归天外"
+    ],
+    "missed_nodes": [],
+    "extra_nodes": []
+  },
+  "review_result": {
+    "blocking_count": 0,
+    "issues": [],
+    "summary": "0个问题：0个阻断，0个高优"
+  },
+  "fulfillment_result": {
+    "planned_nodes": [
+      "圣人法尺 | 降临于 | 帝都上空遮天蔽日",
+      "保守大儒与秦使 | 联名逼迫大周天子 | 交出顾道儒以平圣怒",
+      "顾道儒 | 坐着格物神舆登上 | 学宫论道台",
+      "顾道儒 | 诵读韩非大公法理 | 叩问法尺之公心",
+      "法尺 | 绽放金光反噬 | 大秦特使并重归天外"
+    ],
+    "covered_nodes": [
+      "圣人法尺 | 降临于 | 帝都上空遮天蔽日",
+      "保守大儒与秦使 | 联名逼迫大周天子 | 交出顾道儒以平圣怒",
+      "顾道儒 | 坐着格物神舆登上 | 学宫论道台",
+      "顾道儒 | 诵读韩非大公法理 | 叩问法尺之公心",
+      "法尺 | 绽放金光反噬 | 大秦特使并重归天外"
+    ],
+    "missed_nodes": [],
+    "extra_nodes": []
+  },
+  "disambiguation_result": {
+    "pending": []
+  },
+  "accepted_events": [
+    {
+      "event_id": "evt-ch032-001",
+      "chapter": 32,
+      "event_type": "character_state_changed",
+      "subject": "顾道儒",
+      "payload": {
+        "field": "status",
+        "old": "深夜回观休整，遭暗殿死士携大秦律令铁契偷袭围杀，一身儒道法术皆被封锁，但凭法家大公本源“天下公法”之意，反客为主反噬铁契夺取控制，击退死士，但再度承受剧烈经脉反噬",
+        "new": "大比第三日登台，在圣人法尺下顶着经脉剧烈反噬与灵府动荡，诵读《韩非子》大公法理，令法尺本源归正反噬秦使，度过危机"
+      }
+    },
+    {
+      "event_id": "evt-ch032-002",
+      "chapter": 32,
+      "event_type": "character_state_changed",
+      "subject": "大秦特使",
+      "payload": {
+        "field": "status",
+        "old": "深夜派死士毁神舆失败，大比首日目睹神舆首秀防护神威与公孙诡被折服退下，捏碎酒樽脸色铁青难看",
+        "new": "大比第三日倚仗降临的掌刑大圣法尺狂妄逼迫，但被归正的法尺以赤金色雷霆击碎天宪规则、重伤骨碎并气海逸散，修为被废沦为废人"
+      }
+    },
+    {
+      "event_id": "evt-ch032-003",
+      "chapter": 32,
+      "event_type": "world_rule_revealed",
+      "subject": "顾道儒",
+      "payload": {
+        "rule_content": "法尺本源：法家大统至理（法不阿贵，绳不挠曲）唤醒并归正人道法尺公器本源，判定偏私用兵、以私害公之人为违法，从而降下裁决雷罚",
+        "rule_category": "法家公理"
+      }
+    },
+    {
+      "event_id": "evt-ch032-004",
+      "chapter": 32,
+      "event_type": "open_loop_created",
+      "subject": "赵修己",
+      "payload": {
+        "content": "大齐大儒赵修己阴鸷密谋，决定在大比正赛中以大齐儒门道统底牌玉衡与主角进行终极生死对决"
+      }
+    },
+    {
+      "event_id": "evt-ch032-005",
+      "chapter": 32,
+      "event_type": "open_loop_closed",
+      "subject": "大秦特使",
+      "payload": {
+        "content": "大秦特使血祭镜子请法家圣人法尺杀人灭口"
+      }
+    }
+  ],
+  "state_deltas": [
+    {
+      "entity_id": "顾道儒",
+      "field": "status",
+      "old": "深夜回观休整，遭暗殿死士携大秦律令铁契偷袭围杀，一身儒道法术皆被封锁，但凭法家大公本源“天下公法”之意，反客为主反噬铁契夺取控制，击退死士，但再度承受剧烈经脉反噬",
+      "new": "大比第三日登台，在圣人法尺下顶着经脉剧烈反噬与灵府动荡，诵读《韩非子》大公法理，令法尺本源归正反噬秦使，度过危机"
+    },
+    {
+      "entity_id": "大秦特使",
+      "field": "status",
+      "old": "深夜派死士毁神舆失败，大比首日目睹神舆首秀防护神威与公孙诡被折服退下，捏碎酒樽脸色铁青难看",
+      "new": "大比第三日倚仗降临的掌刑大圣法尺狂妄逼迫，但被归正的法尺以赤金色雷霆击碎天宪规则、重伤骨碎并气海逸散，修为被废沦为废人"
+    },
+    {
+      "entity_id": "大周太学司祭酒",
+      "field": "status",
+      "old": "听证会上联合秦使弹劾顾道儒失败，被文武相济真理大破并受天子御旨与大唐百战兵锋震慑，脸色发青瘫坐大殿",
+      "new": "法尺降临后惶恐上奏联名逼迫天子交出主角，主角大胜后脸色惨白瘫坐在地"
+    }
+  ],
+  "entity_deltas": [],
+  "entities_appeared": [
+    {
+      "id": "顾道儒",
+      "type": "角色",
+      "mentions": [
+        "顾道儒",
+        "顾先生",
+        "主角",
+        "顾某"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "墨玄机",
+      "type": "角色",
+      "mentions": [
+        "墨玄机",
+        "先生"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "大周帝君",
+      "type": "角色",
+      "mentions": [
+        "帝君",
+        "陛下"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "大秦特使",
+      "type": "角色",
+      "mentions": [
+        "大秦特使",
+        "商无情",
+        "特使"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "大周太学司祭酒",
+      "type": "角色",
+      "mentions": [
+        "太学司祭酒",
+        "祭酒"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "掌刑大圣法尺",
+      "type": "物品",
+      "mentions": [
+        "法尺",
+        "巨尺",
+        "玉尺"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "赵修己",
+      "type": "角色",
+      "mentions": [
+        "赵修己",
+        "大儒"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "start_line": 1,
+      "end_line": 20,
+      "location": "大周帝都上空",
+      "summary": "晨曦时分圣人法尺降临帝都上空，封锁虚空，威压全城。",
+      "characters": [
+        "掌刑大圣法尺"
+      ]
+    },
+    {
+      "index": 2,
+      "start_line": 21,
+      "end_line": 43,
+      "location": "大周皇宫宣政殿",
+      "summary": "大周保守派逼宫，天子力抗压力，在论道台大比规则下护持顾道儒。",
+      "characters": [
+        "大周帝君",
+        "大周太学司祭酒"
+      ]
+    },
+    {
+      "index": 3,
+      "start_line": 44,
+      "end_line": 67,
+      "location": "大周帝都学宫论道台",
+      "summary": "大比论道台死寂，商无情持圣器天威狂妄逼迫，墨玄机推顾道儒坐神舆登台。",
+      "characters": [
+        "顾道儒",
+        "墨玄机",
+        "大秦特使"
+      ]
+    },
+    {
+      "index": 4,
+      "start_line": 68,
+      "end_line": 111,
+      "location": "大周帝都学宫论道台",
+      "summary": "顾道儒指天诵法家大公至理，点破大秦私法以私害公，法尺本源被唤醒，赤金雷霆轰废特使商无情。",
+      "characters": [
+        "顾道儒",
+        "大秦特使",
+        "掌刑大圣法尺"
+      ]
+    },
+    {
+      "index": 5,
+      "start_line": 112,
+      "end_line": 141,
+      "location": "大周帝都学宫论道台",
+      "summary": "法尺完璧化流光归天，帝都云开日出，保守派震悚，赵修己阴冷发誓在正赛上决一死战。",
+      "characters": [
+        "顾道儒",
+        "大周太学司祭酒",
+        "赵修己"
+      ]
+    }
+  ],
+  "chapter_meta": {},
+  "dominant_strand": "quest",
+  "summary_text": "---\nchapter: 32\ntime: \"十月三日白天\"\nlocation: \"大周帝都学宫论道台\"\ncharacters: [\"顾道儒\", \"墨玄机\", \"大周帝君\", \"大秦特使\", \"大周太学司祭酒\", \"赵修己\"]\nstate_changes: [\"顾道儒: 顶着反噬登台论法\", \"大秦特使: 狂妄逼迫后被废除修为\", \"大周太学司祭酒: 逼宫失败惊悚瘫坐\"]\nhook_type: \"大比承接钩\"\nhook_strength: \"strong\"\n---\n## 剧情摘要\n十月三日白天，大秦特使请降的“掌刑大圣法尺”横亘帝都上空，威压极重。大周保守派太学司祭酒等百官跪请交人，帝君顶住压力力保规矩，要主角登台辩法。论道台上大秦特使商无情得意逼迫，顾道儒顶着经脉渗血反噬由墨玄机推上台，以韩非至理“法不阿贵，绳不挠曲”直斥秦法私用与偏枯。人道法尺公器本源被唤醒归正，降下雷霆将大秦特使商无情的 rules 规则击碎，废去其全身修为。法尺完璧化金光飞天。大齐大儒赵修己在台下阴鸷誓言在学宫正赛中用儒门道统与主角决一死战。\n## 伏笔\n- [埋设] 赵修己欲用儒门正统大印在大比正赛与主角生死对决\n- [回收] 大秦特使请降法尺抹杀顾道儒的杀招\n## 承接点\n大秦特使已成废人，底牌出尽，学宫大比高潮彻底转向大齐儒门偏执学说与顾道儒真理的核心碰撞。",
+  "projection_status": {
+    "state": "done",
+    "index": "done",
+    "summary": "done",
+    "memory": "done",
+    "vector": "skipped"
+  }
+}

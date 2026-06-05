@@ -1,0 +1,41 @@
+[
+  {
+    "event_id": "evt-ch031-001",
+    "chapter": 31,
+    "event_type": "character_state_changed",
+    "subject": "顾道儒",
+    "payload": {
+      "field": "status",
+      "old": "在兵家九宫擂上面对白屠杀阵重压，引动《荀子·议兵》之“禁暴除害”大同道理，融汇浩然正气与铁血杀气，当众宣告儒兵合流新道，大破白屠；引动人道鉴气运反哺西线镇蛮关，解救垂死兵家亚圣，经脉受反噬创伤重温养",
+      "new": "深夜回观休整，遭暗殿死士携大秦律令铁契偷袭围杀，一身儒道法术皆被封锁，但凭法家大公本源“天下公法”之意，反客为主反噬铁契夺取控制，击退死士，但再度承受剧烈经脉反噬"
+    }
+  },
+  {
+    "event_id": "evt-ch031-002",
+    "chapter": 31,
+    "event_type": "world_rule_revealed",
+    "subject": "顾道儒",
+    "payload": {
+      "rule_content": "公法反制：以天下大公之法反夺秦法之私刑秩序，形成绝对理则反噬",
+      "rule_category": "法家公理"
+    }
+  },
+  {
+    "event_id": "evt-ch031-003",
+    "chapter": 31,
+    "event_type": "open_loop_created",
+    "subject": "大秦特使",
+    "payload": {
+      "content": "大秦特使阴谋败退，狗急跳墙，喷血献祭铜镜请出大秦法家执掌刑律至高大圣之“法尺”降世灭口"
+    }
+  },
+  {
+    "event_id": "evt-ch031-004",
+    "chapter": 31,
+    "event_type": "open_loop_closed",
+    "subject": "大秦特使",
+    "payload": {
+      "content": "大秦特使与大齐保守派大儒气急败坏，密谋在大比期间动用底牌在寒蝉观彻底抹杀顾道儒"
+    }
+  }
+]

@@ -6,10 +6,56 @@
     "chapter": 30
   },
   "override_allowed": {
-    "chapter_focus": "儒兵合流大破白屠"
+    "chapter_focus": "十月二日上午，学宫大比第二场（兵家九宫擂）。顾道儒面对白屠“百战杀神阵”与赤红杀气铡刀的致命压迫，依靠神舆的太极气旋卸力坚守。在残躯负荷、嘴角溢血的险境下，当众诵读并书写《荀子·议兵》之要义，以“仁人之兵，所以禁暴除害”之理宣告“儒兵合流，文武相济”，轰碎杀阵。人道鉴降下万丈白气灌注西线镇蛮关为亚圣续命。白屠心服口服，沉默收刀认输。"
   },
-  "chapter_directive": {},
+  "chapter_directive": {
+    "goal": "十月二日上午，学宫大比第二场（兵家九宫擂）。顾道儒面对白屠“百战杀神阵”与赤红杀气铡刀的致命压迫，依靠神舆的太极气旋卸力坚守。在残躯负荷、嘴角溢血的险境下，当众诵读并书写《荀子·议兵》之要义，以“仁人之兵，所以禁暴除害”之理宣告“儒兵合流，文武相济”，轰碎杀阵。人道鉴降下万丈白气灌注西线镇蛮关为亚圣续命。白屠心服口服，沉默收刀认输。",
+    "obstacles": "白屠的法兵融汇杀道与数十万百战杀意，金铁铡刀强行压制一切道理共鸣。",
+    "cost": "主角以残断经脉强引儒兵大道，遭受知行反噬，体内经脉剧烈撕裂，嘴角溢血。",
+    "time_anchor": "大周延平十七年，十月二日，清晨（接续第29章）",
+    "countdown": "大比正赛第二日",
+    "strand": "Quest（主线：兵家九宫决战）",
+    "antagonist_tier": "白屠",
+    "key_entities": [
+      "顾道儒",
+      "白屠",
+      "格物神舆",
+      "人道鉴",
+      "人道金气",
+      "墨玄机",
+      "《荀子·议兵》",
+      "本章变化：完成了兵家九宫擂第二场的大胜",
+      "当众确立并写出了“儒兵合流",
+      "文武相济”的新大道理",
+      "引动人道鉴将儒兵大运反哺西线",
+      "暂时缓解了西线镇蛮关的亚圣虚损危机",
+      "白屠的法兵杀道被彻底大破并遭受反噬",
+      "冷峻服输退场。"
+    ],
+    "chapter_end_open_question": "大秦与大齐等保守势力眼见主角连续获胜，接下来会采取何种更激烈的政治或暴力报复？",
+    "source": "chapter_outline"
+  },
   "dynamic_context": [
+    {
+      "编号": "PA-046",
+      "适用技能": "plan|write",
+      "分类": "节奏",
+      "层级": "知识补充",
+      "关键词": "支线并线|回主轴|多线收束|支线归主线",
+      "意图与同义词": "支线太散怎么收回来|多条线怎么并回主线|写着写着跑偏怎么回主轴",
+      "适用题材": "全部",
+      "大模型指令": "不要分别一条条收支线，优先设计一个汇点，让多条支线在同一事件上同时兑现并回主轴。",
+      "核心摘要": "支线并线回主轴期最有效的写法，是让多条线在同一汇聚事件上互相证明自己不是白写的。",
+      "详细展开": "旧仇、旧案、旧物、角色关系和地图变化都可以在同一场大会战、同一案发夜或同一卷终点一起并线。",
+      "节奏类型": "支线并线回主轴期",
+      "情绪调动手法": "散线回拢|多线同时亮灯|主线再度清晰发光",
+      "毒点": "支线一个个机械交差|回收完仍然和主线无关|并线节点没有足够戏剧压力",
+      "_table": "爽点与节奏",
+      "_priority_rank": 0,
+      "_reasoning_rule": "玄幻",
+      "_chapter_keyword_score": 1,
+      "_combined_rank_score": 0.6
+    },
     {
       "编号": "SP-004",
       "适用技能": "write|plan",
@@ -30,7 +76,7 @@
       "_priority_rank": 2,
       "_reasoning_rule": "玄幻",
       "_chapter_keyword_score": 0,
-      "_combined_rank_score": 0.333333
+      "_combined_rank_score": 0.133333
     },
     {
       "编号": "SP-021",
@@ -52,7 +98,7 @@
       "_priority_rank": 2,
       "_reasoning_rule": "玄幻",
       "_chapter_keyword_score": 0,
-      "_combined_rank_score": 0.333333
+      "_combined_rank_score": 0.133333
     },
     {
       "编号": "PA-054",
@@ -68,26 +114,6 @@
       "节奏类型": "质疑-证明-补刀三拍",
       "情绪调动手法": "轻视压低预期|证明抬回局势|补刀再拔一层",
       "毒点": "质疑太弱没有压迫|证明过长拖掉爽感|缺最后一拍导致场面发虚",
-      "_table": "爽点与节奏",
-      "_priority_rank": 0,
-      "_reasoning_rule": "玄幻",
-      "_chapter_keyword_score": 0,
-      "_combined_rank_score": 0.0
-    },
-    {
-      "编号": "PA-044",
-      "适用技能": "plan|write",
-      "分类": "节奏",
-      "层级": "知识补充",
-      "关键词": "爽点换挡|防疲劳|爽法轮换|中后期保鲜",
-      "意图与同义词": "一种爽点写多了怎么办|长篇怎么防打脸疲劳|中后期爽点怎么换口味",
-      "适用题材": "全部",
-      "大模型指令": "主卖点可以稳定，但兑现方式必须轮换，把打脸、智斗、情感、真相和关系回报交替投放。",
-      "核心摘要": "爽点换挡防疲劳期的目的，不是换掉卖点，而是让同一卖点从不同维度持续新鲜。",
-      "详细展开": "如果前期主打力量打脸，中后期就该插入规则破局、真相翻面、关系兑现或代价回收，避免单一爽法刷麻木。",
-      "节奏类型": "爽点换挡防疲劳期",
-      "情绪调动手法": "打脸换智斗|力量换情感|真相与关系交替释放",
-      "毒点": "全书只有一种爽法|换挡过猛丢掉主卖点|为了换而换却不服务主线",
       "_table": "爽点与节奏",
       "_priority_rank": 0,
       "_reasoning_rule": "玄幻",
@@ -148,13 +174,23 @@
       "reason": "explicit_genre_fallback"
     },
     {
+      "table": "爽点与节奏",
+      "id": "PA-046",
+      "summary": "支线并线回主轴期最有效的写法，是让多条线在同一汇聚事件上互相证明自己不是白写的。",
+      "reasoning_rule": "玄幻",
+      "priority_rank": 0,
+      "chapter_keyword_score": 1,
+      "combined_rank_score": 0.6,
+      "inject_target": "CHAPTER_BRIEF.writing_guidance"
+    },
+    {
       "table": "场景写法",
       "id": "SP-004",
       "summary": "扮猪吃虎式反击要先让主角处于被低估位置，再通过信息差或隐藏底牌完成集中反转。",
       "reasoning_rule": "玄幻",
       "priority_rank": 2,
       "chapter_keyword_score": 0,
-      "combined_rank_score": 0.333333,
+      "combined_rank_score": 0.133333,
       "inject_target": "CHAPTER_BRIEF.writing_guidance"
     },
     {
@@ -164,23 +200,13 @@
       "reasoning_rule": "玄幻",
       "priority_rank": 2,
       "chapter_keyword_score": 0,
-      "combined_rank_score": 0.333333,
+      "combined_rank_score": 0.133333,
       "inject_target": "CHAPTER_BRIEF.writing_guidance"
     },
     {
       "table": "爽点与节奏",
       "id": "PA-054",
       "summary": "很多打脸场的完成度，取决于最后那一拍补刀有没有把情绪真正抬满。",
-      "reasoning_rule": "玄幻",
-      "priority_rank": 0,
-      "chapter_keyword_score": 0,
-      "combined_rank_score": 0.0,
-      "inject_target": "CHAPTER_BRIEF.writing_guidance"
-    },
-    {
-      "table": "爽点与节奏",
-      "id": "PA-044",
-      "summary": "爽点换挡防疲劳期的目的，不是换掉卖点，而是让同一卖点从不同维度持续新鲜。",
       "reasoning_rule": "玄幻",
       "priority_rank": 0,
       "chapter_keyword_score": 0,

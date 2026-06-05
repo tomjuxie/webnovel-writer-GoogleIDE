@@ -1,0 +1,41 @@
+[
+  {
+    "event_id": "evt-ch030-001",
+    "chapter": 30,
+    "event_type": "character_state_changed",
+    "subject": "顾道儒",
+    "payload": {
+      "field": "status",
+      "old": "深夜承接李霆与老卒裴烈送达的西线告急血书因果；次日清晨乘坐格物神舆入兵家九宫擂，直面大秦法兵天骄白屠百战杀神阵的凶戾包围，波澜不惊",
+      "new": "在兵家九宫擂上面对白屠杀阵重压，引动《荀子·议兵》之“禁暴除害”大同道理，融汇浩然正气与铁血杀气，当众宣告儒兵合流新道，大破白屠；引动人道鉴气运反哺西线镇蛮关，解救垂死兵家亚圣，经脉受反噬创伤重温养"
+    }
+  },
+  {
+    "event_id": "evt-ch030-002",
+    "chapter": 30,
+    "event_type": "world_rule_revealed",
+    "subject": "顾道儒",
+    "payload": {
+      "rule_content": "儒兵合流：用兵者以仁统之，以义行之，仁人之兵禁暴除害而非争夺，文武相济可引人道鉴庞大气运反哺",
+      "rule_category": "儒兵大道"
+    }
+  },
+  {
+    "event_id": "evt-ch030-003",
+    "chapter": 30,
+    "event_type": "open_loop_created",
+    "subject": "大秦特使",
+    "payload": {
+      "content": "大秦特使与大齐保守派大儒气急败坏，密谋在接下来的大比期间动用底牌在寒蝉观彻底抹杀顾道儒"
+    }
+  },
+  {
+    "event_id": "evt-ch030-004",
+    "chapter": 30,
+    "event_type": "promise_paid_off",
+    "subject": "顾道儒",
+    "payload": {
+      "content": "顾道儒履行对李霆与裴烈的承诺，在九宫擂获胜并唤醒儒兵合流反哺西线兵家亚圣"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "event_id": "evt-ch032-001",
+    "chapter": 32,
+    "event_type": "character_state_changed",
+    "subject": "顾道儒",
+    "payload": {
+      "field": "status",
+      "old": "深夜回观休整，遭暗殿死士携大秦律令铁契偷袭围杀，一身儒道法术皆被封锁，但凭法家大公本源“天下公法”之意，反客为主反噬铁契夺取控制，击退死士，但再度承受剧烈经脉反噬",
+      "new": "大比第三日登台，在圣人法尺下顶着经脉剧烈反噬与灵府动荡，诵读《韩非子》大公法理，令法尺本源归正反噬秦使，度过危机"
+    }
+  },
+  {
+    "event_id": "evt-ch032-002",
+    "chapter": 32,
+    "event_type": "character_state_changed",
+    "subject": "大秦特使",
+    "payload": {
+      "field": "status",
+      "old": "深夜派死士毁神舆失败，大比首日目睹神舆首秀防护神威与公孙诡被折服退下，捏碎酒樽脸色铁青难看",
+      "new": "大比第三日倚仗降临的掌刑大圣法尺狂妄逼迫，但被归正的法尺以赤金色雷霆击碎天宪规则、重伤骨碎并气海逸散，修为被废沦为废人"
+    }
+  },
+  {
+    "event_id": "evt-ch032-003",
+    "chapter": 32,
+    "event_type": "world_rule_revealed",
+    "subject": "顾道儒",
+    "payload": {
+      "rule_content": "法尺本源：法家大统至理（法不阿贵，绳不挠曲）唤醒并归正人道法尺公器本源，判定偏私用兵、以私害公之人为违法，从而降下裁决雷罚",
+      "rule_category": "法家公理"
+    }
+  },
+  {
+    "event_id": "evt-ch032-004",
+    "chapter": 32,
+    "event_type": "open_loop_created",
+    "subject": "赵修己",
+    "payload": {
+      "content": "大齐大儒赵修己阴鸷密谋，决定在大比正赛中以大齐儒门道统底牌玉衡与主角进行终极生死对决"
+    }
+  },
+  {
+    "event_id": "evt-ch032-005",
+    "chapter": 32,
+    "event_type": "open_loop_closed",
+    "subject": "大秦特使",
+    "payload": {
+      "content": "大秦特使血祭镜子请法家圣人法尺杀人灭口"
+    }
+  }
+]

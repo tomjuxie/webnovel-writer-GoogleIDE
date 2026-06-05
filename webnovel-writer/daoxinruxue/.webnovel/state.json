@@ -32,9 +32,9 @@
     "cultivation_subtiers": "一至九境"
   },
   "progress": {
-    "current_chapter": 29,
-    "total_words": 113198,
-    "last_updated": "2026-06-02 19:19:52",
+    "current_chapter": 34,
+    "total_words": 130468,
+    "last_updated": "2026-06-05 20:07:18",
     "volumes_completed": [],
     "current_volume": 1,
     "volumes_planned": [
@@ -73,7 +73,12 @@
       "26": "chapter_committed",
       "27": "chapter_committed",
       "28": "chapter_committed",
-      "29": "chapter_committed"
+      "29": "chapter_committed",
+      "30": "chapter_committed",
+      "31": "chapter_committed",
+      "32": "chapter_committed",
+      "33": "chapter_committed",
+      "34": "chapter_committed"
     }
   },
   "protagonist_state": {
@@ -132,11 +137,11 @@
   ],
   "chapter_meta": {},
   "strand_tracker": {
-    "last_quest_chapter": 29,
+    "last_quest_chapter": 34,
     "last_fire_chapter": 0,
     "last_constellation_chapter": 0,
     "current_dominant": "quest",
-    "chapters_since_switch": 24,
+    "chapters_since_switch": 29,
     "history": [
       {
         "chapter": 4,
@@ -233,6 +238,26 @@
       {
         "chapter": 29,
         "dominant": "quest"
+      },
+      {
+        "chapter": 30,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 31,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 32,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 33,
+        "dominant": "quest"
+      },
+      {
+        "chapter": 34,
+        "dominant": "quest"
       }
     ]
   },
@@ -246,13 +271,13 @@
       "location": {
         "current": "大周帝局寒蝉观"
       },
-      "status": "深夜承接李霆与老卒裴烈送达的西线告急血书因果；次日清晨乘坐格物神舆入兵家九宫擂，直面大秦法兵天骄白屠百战杀神阵的凶戾包围，波澜不惊"
+      "status": "大比决战日登台，顶着极度伤残咯血顶住先圣投影重压，诵读《论语》至理“人能弘道，非道弘人”折服先圣法身，法身躬身退避降下金雨温养经脉并使他得以首次站立，赢下大比终局战。脑海中神秘青铜大门裂开缝隙。"
     },
     "陈明": {
       "status": "化玉殉道"
     },
     "墨玄机": {
-      "status": "大比首日推行格物神舆推主角进入论道台，面对宗师大阵冷静坚毅默默守护，共同夺得首战大胜，稳固防线",
+      "status": "深夜挺身而出推格物神舆护送主角躲避围攻，只身穿戴墨金软甲引爆傀儡以手铳连弩在庭院大杀死士守卫防线，身受轻伤，深情擦去主角额角战栗冷汗",
       "location": {
         "current": "大周帝都寒蝉观"
       }
@@ -312,16 +337,25 @@
       "status": "深夜将西线亚圣垂危、百万蛮军压境的密信血书送至寒蝉观交付顾道儒，恳请其以大比儒兵合流之势反哺西线"
     },
     "大周太学司祭酒": {
-      "status": "听证会上联合秦使弹劾顾道儒失败，被文武相济真理大破并受天子御旨与大唐百战兵锋震慑，脸色发青瘫坐大殿"
+      "status": "法尺降临后惶恐上奏联名逼迫天子交出主角，主角大胜后脸色惨白瘫坐在地"
     },
     "大秦特使": {
-      "status": "深夜派死士毁神舆失败，大比首日目睹神舆首秀防护神威与公孙诡被折服退下，捏碎酒樽脸色铁青难看"
+      "status": "大比第三日倚仗降临的掌刑大圣法尺狂妄逼迫，但被归正的法尺以赤金色雷霆击碎天宪规则、重伤骨碎并气海逸散，修为被废沦为废人"
     },
     "公孙诡": {
       "status": "大齐名家宗师，大比首日布阵阻道，言论被顾道儒正名至理击败反噬吐血，但在顾道儒点醒下大彻大悟，主动收去大阵执弟子礼谢过退下，保留根基"
     },
     "白屠": {
-      "status": "大秦兵家天骄，5境破军法兵大将，兵家正赛登台对阵顾道儒，施展百战杀神阵卷起暗红刀罡杀意直逼顾道儒"
+      "status": "法兵杀道被儒兵合流之理击破，遭受法理反噬负伤落败，感悟以仁统兵之说，冷峻服输，沉默退场"
+    },
+    "兵家亚圣": {
+      "status": "得到人道鉴金色气运龙气跨越虚空反哺温养，石壳剥落，生机重燃恢复苏醒"
+    },
+    "赵修己": {
+      "status": "大比决战日，拼尽精血寿命发动宗门血誓玉衡召唤先圣投影决战。目睹先圣投影向顾道儒躬身折服后道心崩溃、文心碎裂吐血暴毙死亡。"
+    },
+    "礼法衡尺": {
+      "status": "被顾道儒大同天下为公至理破去固化尊卑的私礼规则，法理被破尺身满是裂纹、灵光尽失"
     }
   }
 }

@@ -1,0 +1,63 @@
+[
+  {
+    "event_id": "evt-ch033-001",
+    "chapter": 33,
+    "event_type": "character_state_changed",
+    "subject": "顾道儒",
+    "payload": {
+      "field": "status",
+      "old": "大比第三日登台，在圣人法尺下顶着经脉剧烈反噬与灵府动荡，诵读《韩非子》大公法理，令法尺本源归正反噬秦使，度过危机",
+      "new": "大比第四日登台，在伤势深重、经脉渗血下直面赵修己正统指责，诵读《礼记·礼运·大同》真言唤醒儒门大同本源，击碎礼法衡尺等级法则，重创赵修己文心赢得大胜利"
+    }
+  },
+  {
+    "event_id": "evt-ch033-002",
+    "chapter": 33,
+    "event_type": "character_state_changed",
+    "subject": "赵修己",
+    "payload": {
+      "field": "status",
+      "old": "大齐礼部侍郎，大比正赛期间与秦使密谋暴力截杀顾道儒，计划在大比中全力抹杀主角",
+      "new": "大比第四日登台，持儒门圣器礼法衡尺指责顾道儒为污道邪说，却被顾道儒大同至理破去偏执法则，文心破裂吐血大败。在不甘与疯狂中退场，发誓次日决战以宗门血誓玉衡与主角玉石俱焚"
+    }
+  },
+  {
+    "event_id": "evt-ch033-003",
+    "chapter": 33,
+    "event_type": "character_state_changed",
+    "subject": "礼法衡尺",
+    "payload": {
+      "field": "status",
+      "old": "大齐儒门道统圣器，运用于维系礼法尊卑秩序",
+      "new": "被顾道儒大同天下为公至理破去固化尊卑的私礼规则，法理被破尺身满是裂纹、灵光尽失"
+    }
+  },
+  {
+    "event_id": "evt-ch033-004",
+    "chapter": 33,
+    "event_type": "world_rule_revealed",
+    "subject": "顾道儒",
+    "payload": {
+      "rule_content": "大同至理：天下为公的儒门大同本源（老有所终，壮有所用，幼有所长...）降临，是真正的天理大同。这彻底碾压了固化等级尊卑的统治阶级私礼，引发庞大的人道百姓气运海啸，对偏执私礼产生毁灭性逻辑反噬。",
+      "rule_category": "儒门大同本源"
+    }
+  },
+  {
+    "event_id": "evt-ch033-005",
+    "chapter": 33,
+    "event_type": "open_loop_created",
+    "subject": "赵修己",
+    "payload": {
+      "content": "赵修己不甘大败，密谋在大比正赛最终对决（第五日）中请出大齐圣庙的“宗门血誓玉衡”请降先圣投影，与主角生死对决，同归于尽"
+    }
+  },
+  {
+    "event_id": "evt-ch033-006",
+    "chapter": 33,
+    "event_type": "open_loop_closed",
+    "subject": "赵修己",
+    "payload": {
+      "content": "大比正赛中，大齐礼部侍郎赵修己对顾道儒进行首轮礼法正统攻势辩论"
+    }
+  }
+]
